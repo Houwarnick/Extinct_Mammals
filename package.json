@@ -1,0 +1,12 @@
+{
+	"name": "Extinct_Mammals",
+	"description": "Practice with MongoDB",
+	"version": "0.0.1",
+	"private": "true",
+	"dependencies": {
+		"express": "4.4.3",
+		"mongoose": "*",
+		"body-parser":"*",
+		"nodemon":"*"
+	}
+}
